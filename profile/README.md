@@ -1,5 +1,10 @@
-## Hi there 👋
+## Studentský Parlament Ječná 🌾
+Jsme sdružení skládající se z aktivních studentů 👨‍🎓 školy [SPŠE Ječná](https://www.spsejecna.cz/).
 
+Snažíme se změnit naši školu v lepší místo a zde najdeš pár našich projektů.
+
+### Chceš se přidat či nám pomoct?
+Stačí napsat na náš [discord](https://discord.gg/KkdNSGdSv9) nebo na email jecnaparlament@gmail.com a domluvíme se.
 <!--
 
 **Here are some ideas to get you started:**
