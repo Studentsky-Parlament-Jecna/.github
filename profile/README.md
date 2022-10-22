@@ -11,6 +11,9 @@ Jsme sdružení skládající se z aktivních studentů 👨‍🎓 školy [SPŠ
 - 📝 Píšeme návrhy na změny v naší škole
 - 📧 Komunikujeme s vedením školy
 - 📅 Organizujeme akce (LANky) pro studenty
+- 🌙 Každý měsíc se pravidelně scházíme a diskutujeme
+- 📢 Předáváme informace o naších aktivitách na sociálních sítích
+- A mnoho dalšího...
 
 ## Jak vám můžu pomoci?
 - **Ujisti se, že tvůj třídní předseda dochází pravidelně na naše zasedání**
