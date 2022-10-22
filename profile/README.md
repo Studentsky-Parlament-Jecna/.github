@@ -13,7 +13,7 @@ Jsme sdružení skládající se z aktivních studentů 👨‍🎓 školy [SPŠ
 - 📅 Organizujeme akce (LANky) pro studenty
 
 ## Jak vám můžu pomoci?
-- **Ujisti se, že tvůj třídní předseda se dochází pravidelně na naše zasedání**
+- **Ujisti se, že tvůj třídní předseda dochází pravidelně na naše zasedání**
 - Přidej se do našeho [Discordového serveru](https://discord.gg/KkdNSGdSv9)
 - Napiš nám návrh na změnu v naší škole
 - Pomoz nám s propagací 📣
