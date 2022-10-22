@@ -1,14 +1,26 @@
 ## Studentský Parlament Ječná 🌾
-Jsme sdružení skládající se z aktivních studentů 👨‍🎓 školy [SPŠE Ječná](https://www.spsejecna.cz/). Snažíme se změnit naši školu v lepší místo.
-### Chceš se přidat či nám pomoct?
-Stačí napsat na náš [discord](https://discord.gg/KkdNSGdSv9) nebo na email jecnaparlament@gmail.com a domluvíme se.
-<!--
+Jsme sdružení skládající se z aktivních studentů 👨‍🎓 školy [SPŠE Ječná](https://www.spsejecna.cz/)
+## Naše cíle jsou
+- ✅ Udělat školu lepším místem
+- ✅ Propojit studenty
+- ✅ Vést diskuzi mezi studenty a školou
+- ✅ Bojovat za studenty
 
-**Here are some ideas to get you started:**
+## Co děláme?
+- 📚 Vytváříme brožuru, kde může každý nový Ječňák najít odpovědi na vše, co ho o naší škole zajímá.
+- 📝 Píšeme návrhy na změny v naší škole
+- 📧 Komunikujeme s vedením školy
+- 📅 Organizujeme akce (LANky) pro studenty
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Jak vám můžu pomoci?
+- **Ujisti se, že tvůj třídní předseda se dochází pravidelně na naše zasedání**
+- Přidej se do našeho [Discordového serveru](https://discord.gg/KkdNSGdSv9)
+- Napiš nám návrh na změnu v naší škole
+- Pomoz nám s propagací 📣
+- Přidej se do některého z našich týmů
+- Pomoz nám s organizací akcí
+- Přispěj do našeho projektu [brožura Ječňáka](https://github.com/Studentsky-Parlament-Jecna/Brozura) 📕
+
+>👩‍💻 **Jak se k nám můžeš přidat?**
+>
+>Napiš nám na [discord](https://discord.gg/KkdNSGdSv9) nebo na email jecnaparlament@gmail.com.
